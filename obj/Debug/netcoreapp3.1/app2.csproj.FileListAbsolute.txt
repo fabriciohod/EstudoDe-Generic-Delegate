@@ -1,0 +1,13 @@
+C:\Users\fahod\Documents\Programas\C#\app2\bin\Debug\netcoreapp3.1\app2.exe
+C:\Users\fahod\Documents\Programas\C#\app2\bin\Debug\netcoreapp3.1\app2.deps.json
+C:\Users\fahod\Documents\Programas\C#\app2\bin\Debug\netcoreapp3.1\app2.runtimeconfig.json
+C:\Users\fahod\Documents\Programas\C#\app2\bin\Debug\netcoreapp3.1\app2.runtimeconfig.dev.json
+C:\Users\fahod\Documents\Programas\C#\app2\bin\Debug\netcoreapp3.1\app2.dll
+C:\Users\fahod\Documents\Programas\C#\app2\bin\Debug\netcoreapp3.1\app2.pdb
+C:\Users\fahod\Documents\Programas\C#\app2\obj\Debug\netcoreapp3.1\app2.csprojAssemblyReference.cache
+C:\Users\fahod\Documents\Programas\C#\app2\obj\Debug\netcoreapp3.1\app2.csproj.CoreCompileInputs.cache
+C:\Users\fahod\Documents\Programas\C#\app2\obj\Debug\netcoreapp3.1\app2.AssemblyInfoInputs.cache
+C:\Users\fahod\Documents\Programas\C#\app2\obj\Debug\netcoreapp3.1\app2.AssemblyInfo.cs
+C:\Users\fahod\Documents\Programas\C#\app2\obj\Debug\netcoreapp3.1\app2.dll
+C:\Users\fahod\Documents\Programas\C#\app2\obj\Debug\netcoreapp3.1\app2.pdb
+C:\Users\fahod\Documents\Programas\C#\app2\obj\Debug\netcoreapp3.1\app2.genruntimeconfig.cache
